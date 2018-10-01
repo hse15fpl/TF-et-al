@@ -16,3 +16,6 @@ https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/T
 
 Каждое задание индивидуальное и номер его соответствует номеру а алфавитном списке студентов группы с конца.
 https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/Task2.pdf
+
+Задание 4 - Срок 3 октября. Решение задачи регрессии
+https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/Regression-Exercise.ipynb
