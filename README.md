@@ -19,3 +19,9 @@ https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/T
 
 Задание 4 - Срок 3 октября. Решение задачи регрессии
 https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/Regression-Exercise.ipynb
+
+Задание 5 - Срок 17 октября. Решение задачи классификации
+https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/Classification-Exercise.ipynb
+
+Задание 6 - Срок 31 октября. Обучение модели Skip-gram
+https://github.com/hse15fpl/TF-et-al/blob/master/Карпов%20Николай/skip_gram/Skip-Gram_word2vec.ipynb
