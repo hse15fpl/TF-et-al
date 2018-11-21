@@ -93,7 +93,10 @@ def calculate(expression):
 	try:           # Универсальная проверка на дурака
 		parser(expression)
 		solution = calc(parsed)
-		outputstr = 'Ответ: ' + str(solution)
+		if solution == '(' or ')':
+			outputstr = 'Неверное выражение, попробуйте ещё.'
+		else:
+			outputstr = 'Ответ: ' + str(solution)
 	except:
 		outputstr = 'Неверное выражение, попробуйте ещё.'
 		

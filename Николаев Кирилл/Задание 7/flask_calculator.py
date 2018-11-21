@@ -17,7 +17,7 @@ template1 = """
 	<p><b>Введите выражение:</b><br>
 		<input name="name1" type="text" size="40">
 	</p>
-	<input type="submit" value="Submit">
+	<input type="submit" value=Посчитать">
 </form>
 <h1>Ответ:</h1>
 <p>%s</p>
@@ -38,7 +38,7 @@ template2 = """
 	<p><b>Введите выражение:</b><br>
 		<input name="name1" type="text" size="40">
 	</p>
-	<input type="submit" value="Submit">
+	<input type="submit" value="Посчитать">
 </form>
 <h1>Ответ для выражения {0}:</h1>
 <p>{1}</p>
